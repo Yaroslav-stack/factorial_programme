@@ -14,7 +14,7 @@ ___
 
 ### In what cases can it be useful?
 
-:white_check_mark: If you often use factorials in your programs
+:white_check_mark: If you often usecombinatorics in your programmes
 
 I think that's all. I'd love to hear of other uses for it.
 
